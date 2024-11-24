@@ -9,10 +9,15 @@ Me interesa ayudar a empresas orientadas al Turismo con el análisis de sus dato
 Ademas mis estudios como Data Scientist estoy realizando mis estudios en el Aeroclub de Mendoza para en un futuro ejercer como Piloto Comercial 
 
 Habilidades Técnicas:
+
 💻 Python | SQL
+
 📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | Fast Api
+
 🛢 SQLServer | MySQL | BigQuery
+
 📊 Power Bi
+
 ⚙️ GitHub | Jupyter | Visual Studio Code
 
 Contacto:
