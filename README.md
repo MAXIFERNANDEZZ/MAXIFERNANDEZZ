@@ -21,8 +21,10 @@ Habilidades Técnicas:
 ⚙️ GitHub | Jupyter | Visual Studio Code
 
 Contacto:
+
 Correo: maxyfernandez2005@gmail.com
-[GitHub](https://www.linkedin.com/in/maximiliano-fernandez2005/)
+
+GitHub: https://www.linkedin.com/in/maximiliano-fernandez2005/)
 
 ## Repositorios
 
