@@ -22,7 +22,7 @@ Habilidades Técnicas:
 
 Contacto:
 Correo: maxyfernandez2005@gmail.com
-GitHub: https://github.com/MAXIFERNANDEZZ
+[GitHub](https://www.linkedin.com/in/maximiliano-fernandez2005/)
 
 ## Repositorios
 
