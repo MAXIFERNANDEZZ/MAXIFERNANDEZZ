@@ -24,7 +24,7 @@ Contacto:
 
 Correo: maxyfernandez2005@gmail.com
 
-Linkedin: https://www.linkedin.com/in/maximiliano-fernandez2005/)
+Linkedin: www.linkedin.com/in/maximiliano-fernandez2005
 
 ## Repositorios
 
