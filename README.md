@@ -3,7 +3,7 @@
 ## Sobre mi
 Soy Data Scientist muy interesado en la rama de Analytics, gradudado en Henry donde potencié habilidades como responsabilidad, organización, trabajo en equipo, trabajo individual e investigación para resolver necesidades .
 
-Me interesa ayudar a empresas orientadas al Turismo con el análisis de sus datos para buscar un crecimiento en la empresa y estoy dispuestos a adquirir los conocimientos que la empresa precise para llevar a cabo ese crecimiento.
+Me interesa ayudar a empresas con el análisis de sus datos para buscar un crecimiento en la empresa y estoy dispuestos a adquirir los conocimientos que la empresa precise para llevar a cabo ese crecimiento.
 
 Ademas mis estudios como Data Scientist estoy realizando mis estudios en el Aeroclub de Mendoza para en un futuro ejercer como Piloto Comercial 
 
